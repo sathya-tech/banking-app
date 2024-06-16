@@ -1,0 +1,4 @@
+Firstly I have used Mysql database for storing the data and I got the data dump from "https://github.com/bhavyanshu/indian-bank-ifsc-branch-database-sql.git"
+I have implemented the routes following the MVC (Model-View-Controller) pattern to enhance code organization and maintainability 
+I have implemented few routes for retrieving the bank details
+Overall the time taken wasn't that much, it took maybe few hours to implement the whole project 
